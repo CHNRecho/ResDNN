@@ -1,2 +1,2 @@
-# ResDNN
+# SIDNet
 Paper model code
